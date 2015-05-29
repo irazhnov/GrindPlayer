@@ -70,10 +70,10 @@
 
 			<s:Spacer width="100%" />
 
-			<components:SubtitlesMenuButton
-				width="30"
-				skinClass="ru.kutu.grindplayer.views.skins.SubtitlesMenuSkin"
-				/>
+			<!--<components:SubtitlesMenuButton-->
+				<!--width="30"-->
+				<!--skinClass="ru.kutu.grindplayer.views.skins.SubtitlesMenuSkin"-->
+				<!--/>-->
 
 			<components:AlternateMenuButton
 				width="26"

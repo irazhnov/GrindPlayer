@@ -66,7 +66,7 @@ package ru.kutu.grindplayer.views.mediators {
 				var subtitles:Object;
 				if (subtitlesSource && subtitlesSource.length) {
 					try {
-						subtitles = JSON.decode(subtitlesSource);
+						subtitles = by.blooddy.crypto.serialization.JSON.decode(subtitlesSource);
 						if ("config" in subtitles) {
 							view.setConfig(subtitles.config);
 						}

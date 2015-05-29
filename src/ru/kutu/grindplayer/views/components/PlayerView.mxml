@@ -40,11 +40,11 @@
 		mouseEnabled="false"
 		/>
 	
-	<components:Subtitles
-		width="70%"
-		bottom="{controlBar.height + controlBar.getStyle('bottom') + height * .05}"
-		horizontalCenter="0"
-		/>
+	<!--<components:Subtitles-->
+		<!--width="70%"-->
+		<!--bottom="{controlBar.height + controlBar.getStyle('bottom') + height * .05}"-->
+		<!--horizontalCenter="0"-->
+		<!--/>-->
 	
 	<components:ControlBarView
 		id="controlBar"
